@@ -32,14 +32,6 @@ Atualmente cursando **Engenharia de IA Aplicada** (UniPDS) e **Ciência de Dados
 
 ---
 
-## 📊 GitHub Stats
-
-![Euller's GitHub stats](https://github-readme-stats.vercel.app/api?username=oileer&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oileer&layout=compact&theme=dark&hide_border=true&langs_count=6)
-
----
-
 ## 📬 Contato
 
 [![Email](https://img.shields.io/badge/Email-eullerlolatosmo@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eullerlolatosmo@gmail.com)
