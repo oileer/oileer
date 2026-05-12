@@ -34,8 +34,9 @@ Atualmente cursando **Engenharia de IA Aplicada** (UniPDS) e **Ciência de Dados
 
 ## 📊 GitHub Stats
 
-![Euller's GitHub stats](https://github-readme-stats.vercel.app/api?username=oileer&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oileer&layout=compact&theme=dark&hide_border=true)
+![Euller's GitHub stats](https://github-readme-stats.vercel.app/api?username=oileer&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oileer&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
 ---
 
