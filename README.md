@@ -2,7 +2,7 @@
 
 Desenvolvedor web focado em **TypeScript**, **Next.js** e **Python** — construindo soluções reais para negócios reais.
 
-Atualmente cursando **Engenharia de IA Aplicada** (UniPDS) e **Ciência de Dados** (Alura), com foco em LLMs, automações inteligentes e MCP.
+Atualmente cursando **Engenharia de IA Aplicada** (UniPDS) e **Engenharia de agentes de IA** (Alura), com foco em LLMs, automações inteligentes e MCP.
 
 ---
 
